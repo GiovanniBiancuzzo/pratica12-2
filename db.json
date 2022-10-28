@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "email": "n@p.com",
+      "password": "$2a$10$FmpmVT2Xt0AZYGDNqIbgNeGo6OZNc3gsbr9BJ31u/2jY403c/Dl2O",
+      "name": "nico",
+      "id": 1
+    },
+    {
+      "email": "dadegi@gmail.com",
+      "password": "$2a$10$TXbylSHODILeuFJNI3d0h.aPdbhH9SsvjDJvzpXXztCAu.jPnBNQ2",
+      "name": "Dario Del Giudice",
+      "id": 2
+    },
+    {
+      "email": "giuseppe@verdi.com",
+      "password": "$2a$10$SCrGr.FxQ5jGQm93bZgqpu.DCQg5QmiMDqF0YIia2Pr7EJA5wdljW",
+      "name": "Giuseppe Verdi",
+      "id": 3
+    },
+    {
+      "email": "dario@runfola.com",
+      "password": "$2a$10$oE.8hsoCtDrpBEDOVMDgx.yNwWuXMfumVXSN81Ykuztzm9/0.khO2",
+      "name": "Dario Runfola",
+      "id": 4
+    },
+    {
+      "email": "vincenzo@bianchi.it",
+      "password": "$2a$10$KuFwFyHzopGashf3trLgpu1gMTNueeMB79xG0wpap0BnZoda3EfoW",
+      "name": "Vincenzo Bianchi",
+      "id": 5
+    },
+    {
+      "email": "giovannibiancuzzo1@gmail.com",
+      "password": "$2a$10$GOkOHLd2e5mmcvhcBEn7ceogHprOhoq/6mK5O5MzEhfjjEUPUhlK.",
+      "name": "",
+      "surname": "",
+      "id": 6
+    },
+    {
+      "email": "giovannzo1@gmail.com",
+      "password": "$2a$10$pHkD6w8HvUqBn/5VzU33yuonx98AdhfJyuQVVGEuKTSsK1ro311aC",
+      "name": "",
+      "surname": "aaa",
+      "id": 7
+    },
+    {
+      "email": "giovannibi1@gmail.com",
+      "password": "$2a$10$OSoOyMMg5iR6R1CNKTo/Kujq0cXOATArY0yWMd2j79bIdyyuqGPni",
+      "name": "a",
+      "surname": "",
+      "id": 8
+    },
+    {
+      "email": "giovanni@gmail.com",
+      "password": "$2a$10$cZ23graz3Sg9F32Ypyj4tuqJG7mXNEWf8nUsTeYPhYEo/ZRl7iUU2",
+      "name": "aaaaaaaaa",
+      "surname": "aaaaaaaaaaaaa",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "titolo",
+      "active": false,
+      "type": "news",
+      "author": "marcoss"
+    },
+    {
+      "id": 2,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active": true,
+      "type": "education",
+      "author": "Lusa"
+    },
+    {
+      "id": 3,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active": true,
+      "type": "politic",
+      "author": "Carlo"
+    },
+    {
+      "id": 4,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active": true,
+      "type": "news",
+      "author": "Mario"
+    }
+  ]
+}

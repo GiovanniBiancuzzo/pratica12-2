@@ -1,0 +1,8 @@
+INSTALLAZIONE JSON SERVER E JSON SERVER AUTH
+npm install -D json-server json-server-auth
+
+INSTALLAZIONE ANGULAR JWT
+npm install @auth0/angular-jwt
+
+AVVIO DI JSON SERVER (da eseguirsi insieme a ng s in due terminali separati): STRINGA DA INSERIRE NEL FILE PACKAGE.JSON ALLA FINE DEGLI SCRIPTS DI AVVIO E DA AVVIARE DA TERMINALE CON IL COMANDO NPM RUN BACKEND
+"backend": "json-server-auth --watch db.json --routes routes.json --port 4201 --delay 1000"
